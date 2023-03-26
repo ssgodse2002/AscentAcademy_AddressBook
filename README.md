@@ -1,2 +1,2 @@
 # AscentAcademy_AddressBook
-A platform to track all the contact information of varied forms such as phone number, mail ID or a residence address.
+"It's the little details that are vital. Little things make big things happen"
